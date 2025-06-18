@@ -1,0 +1,9 @@
+CREATE TABLE weather_data (
+    location Utf8,
+    date_time Timestamp,
+    temperature_c Double,
+    humidity_pct Double,
+    precipitation_mm Double,
+    wind_speed_kmh Double,
+    PRIMARY KEY (location, date_time)
+);
