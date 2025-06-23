@@ -53,7 +53,7 @@
   	 </details> 
 
 
-### Задание 2.  🖥️ Автоматизация работы с Yandex Data Processing при помощи Apache AirFlow
+### Задание 2. Автоматизация работы с Yandex Data Processing при помощи Apache AirFlow
 
 - Подготовлена инфраструктура (Managed service for Airflow)
       <details>
